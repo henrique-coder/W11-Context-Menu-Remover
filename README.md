@@ -22,9 +22,14 @@ This project was created to automate the switching from the modern Windows 11 Co
 
 ![](https://i.imgur.com/w7sRjzg.png)
 
-### Windows 11 Context Menu ![](https://i.imgur.com/W3hNRYg.png) ![](https://i.imgur.com/5xPzpgE.gif)
+### Windows 11 Context Menu
+![](https://i.imgur.com/W3hNRYg.png)
+![](https://i.imgur.com/5xPzpgE.gif)
 
-### Windows 10 Context Menu ![](https://i.imgur.com/2bTovoX.png) ![](https://i.imgur.com/VhlArtx.gif)
+### Windows 10 Context Menu
+![](https://i.imgur.com/2bTovoX.png)
+![](https://i.imgur.com/VhlArtx.gif)
+
 ## FAQ - Frequently Asked Questions
 
 #### Do I need to run the script with Administrator Privileges or do anything manually for the process to finish successfully?
